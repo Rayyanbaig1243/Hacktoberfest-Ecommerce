@@ -4,10 +4,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/mrcoder991/Hacktoberfest-Ecommerce/issues)
 [![GitHub issues by-label](https://img.shields.io/github/mrcoder991/Hacktoberfest-Ecommerce.svg)](https://github.com/mrcoder991/Hacktoberfest-Ecommerce/pulls?q=is%3Apr+is%3Aclosed)
 [![GitHub issues by-label](https://img.shields.io/github/issues-pr/ows-ali/Hacktoberfest.svg)](https://github.com/mrcoder991/Hacktoberfest-Ecommerce/pulls?q=is%3Aopen+is%3Apr) -->
-
 This repository is mainly open to those who are looking to make some PR for the Hacktoberfest event, and to get started with GitHub and the open-source world.
 In this repository, you will have to work in an ecommerce website where you can enhance the user interface and adding new pages and features, Documentation by add meaningfull comments and adding proper [README.md](./README.md) files.
-
 ### Tech Stack
 <img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JS" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
@@ -27,6 +25,8 @@ In this repository, you will have to work in an ecommerce website where you can 
 [Learn the Git basics](https://try.github.io)
 
 ### OUR VALUABLE CONTRIBUTORS✨
+
+### HOW TO CONTRIBUTE
   
 	
 <a href="https://github.com/mrcoder991/Hacktoberfest-Ecommerce/graphs/contributors">
