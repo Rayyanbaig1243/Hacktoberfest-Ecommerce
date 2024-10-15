@@ -25,8 +25,7 @@ In this repository, you will have to work in an ecommerce website where you can 
 [Learn the Git basics](https://try.github.io)
 
 ### OUR VALUABLE CONTRIBUTORS✨
-
-### HOW TO CONTRIBUTE
+### THESE ARE 👇
   
 	
 <a href="https://github.com/mrcoder991/Hacktoberfest-Ecommerce/graphs/contributors">
